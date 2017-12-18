@@ -1,0 +1,11 @@
+Exception/InvalidCurrencyException.php
+LineItem.php
+ProductAggregator.php
+CurrencyConverter/Client/ClientInterface.php
+CurrencyConverter/Client/AbstractClient.php
+CurrencyConverter/Client/FixerClient.php
+CurrencyConverter/Client/GoogleFinanceClient.php
+CurrencyConverter/Client/YahooQuoteClient.php
+CurrencyConverter.php
+FileParser.php
+FileProcessor.php
